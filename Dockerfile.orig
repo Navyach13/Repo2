@@ -1,5 +1,8 @@
 This is dockerfile
 This is added in github itself
 This is the new line
-This is added by dev1
+<<<<<<< HEAD
 This is added by dev2
+=======
+This is added by dev1
+>>>>>>> d2e4b1e30b4cdee100315fda73e8165c4f977091
